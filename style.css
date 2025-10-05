@@ -1,9 +1,11 @@
 body {
+   body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: url('images/background.jpg') no-repeat center center fixed;
-    background-size: cover;
-    color: #fff;
+    padding: 0;
+    background-color: #40E0D0;
+}
+
 }
 
 header {
@@ -65,3 +67,4 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
